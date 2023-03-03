@@ -56,7 +56,7 @@
 <div class = "grid">
     
     <div class="content center-grid">
-        <h2 class="center">Greetings! It's UserCommon's landing page.</h2>
+        <h2 class="center">Greetings! It's UserCommon's home page.</h2>
         <img class="avatar center" src={chad} alt="chad" style="">
 
         <div class="bio">
